@@ -1,0 +1,28 @@
+
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:50%;
+}
+
+
+.qholder{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+
+
+.endDisplay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
